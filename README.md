@@ -1,3 +1,7 @@
+Anti Signed Exe Degrade.
+The Driver prevents the unsigned exe files create processes that are signed. It is part of anti ransomeware system to prevent cheat the system by calling other processes that can modify files..
+
+
 ObCallback Callback Registration Driver
 =======================================
 
